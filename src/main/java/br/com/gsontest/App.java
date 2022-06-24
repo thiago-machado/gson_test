@@ -2,7 +2,7 @@ package br.com.gsontest;
 
 import com.google.gson.Gson;
 
-import br.com.gsontest.model.pessoa.Pessoa;
+import br.com.gsontest.model.Pessoa;
 import br.com.gsontest.util.ArquivoUtil;
 
 public class App {

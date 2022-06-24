@@ -1,4 +1,4 @@
-package br.com.gsontest.model.pessoa;
+package br.com.gsontest.model;
 
 public class Pessoa {
 
